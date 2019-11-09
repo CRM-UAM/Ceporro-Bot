@@ -1,4 +1,7 @@
 # Ceporro-Bot
+![](/Imagenes/Ceporro-Bot.jpeg)
+
+# Construcción
 
 Primero hicimos un prototipo del robot.
 

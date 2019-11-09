@@ -43,4 +43,4 @@ Solo quedaría conectarle una lipo 1S al receptor para tener listo nuestro robot
 8. Batería LIPO 1S
 9. Receptor/Emisor RF (Flysky FSI6)
 10. Taladro
-11. Imaginación y dignidad
+11. Imaginación y dignidad ;)
